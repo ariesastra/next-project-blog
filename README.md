@@ -24,6 +24,10 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Typescript](https://www.npmjs.com/package/typescript) - TypeScript is a language for application-scale JavaScript.
+- [Typescript React](https://www.npmjs.com/package/@types/react) - This package contains type definitions for React (http://facebook.github.io/react/).
+- [Typescript Node](https://www.npmjs.com/package/@types/react) - https://www.npmjs.com/package/@types/node.
+- [Emotion React CSS](https://emotion.sh/docs/introduction) - Emotion is a library designed for writing css styles with JavaScript.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
